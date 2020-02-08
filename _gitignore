@@ -1,0 +1,23 @@
+
+.DS_Store
+.gitattributes
+__backup__/ComputeFBeta.py
+__backup__/Report.pdf
+__backup__/requirements.txt
+__backup__/results.json
+__backup__/RunFaceDetectorOnRealPhoto copy.py
+__backup__/test.py
+__backup__/ViolaJonesFaceDetector copy.py
+__pycache__/cascade.cpython-35.pyc
+__pycache__/nms.cpython-35.pyc
+__pycache__/utils.cpython-35.pyc
+__pycache__/utils.cpython-37.pyc
+__pycache__/viola_jones.cpython-35.pyc
+__pycache__/ViolaJonesFaceDetector.cpython-35.pyc
+__pycache__/ViolaJonesFaceDetector.cpython-37.pyc
+Classifier.pkl
+result.png
+Test-Data.pkl
+Training-Data.pkl
+features copy.pkl
+features.pkl

@@ -1,0 +1,26 @@
+I am not able to change the location of all the indiviual folders as the log files are already
+created and if i change them then I would have to train the model again will takes a lot of time.
+So I have mentioned where all the components are located for your ease.
+
+
+There is a 1) report pdf: Final_Project_642_Report
+	   2) program files: main.py and Face_Detection_Daily_life_Scenes.py
+	   3) image set: dataset folder has the image set
+	   4) Auxillary files : the output and performnce metrics of the entire code can be seen in 2 
+	      log files present in the log folder.
+
+
+To run the two python files
+uncomment the following two lines at the end of main.py file before training and comment it 
+after training is done -
+   
+TrainData() 
+TestData()
+
+To train - 
+python main.py -> ./logs/train_log.txt
+
+To test on real images -
+python Face_Detection_Daily_Life_Scenes.py -> ./logs/test_log.txt
+
+
